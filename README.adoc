@@ -5,26 +5,4 @@ image:https://badges.gitter.im/SerCeMan/intellij-solidity.svg[link="https://gitt
 
 == Current status
 
-This plugin is in alpha stage. You can support the plugin development by clicking ★ and sending some currency to:
-
-[title=eth]
-----
-0x01125790E280AE242c812cE92BCA882e8102E730
-----
-
-[title=btc]
-----
-12kTqntQyy2GtntYAkB87XkPEjvDq3hh81
-----
-
-== Features
-
-* Basic syntax highlighting
-* Built-in functions completion
-
-== Build
-
-[source,bash]
-----
-./gradlew buildPlugin
-----
+The development has moved to link:https://github.com/intellij-solidity/intellij-solidity[intellij-solidity]
